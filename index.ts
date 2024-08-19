@@ -1,2 +1,2 @@
-import {compilerOptions} from './tsconfig.json' with {type: 'json'};
+import {compilerOptions} from './tsconfig.json';
 console.log(compilerOptions);
